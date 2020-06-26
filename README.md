@@ -14,6 +14,7 @@ https://airtable.com/  (meeting 001)
 https://www.bettyblocks.com/  
 https://powerapps.microsoft.com/en-us/  
 https://docs.busywork.co/   
+https://www.honeycode.aws/   
 
 ## Websites
 https://webflow.com/  
@@ -27,14 +28,18 @@ https://kodika.io/­
 https://www.adalo.com/ 
 https://www.outsystems.com/  
 
+
+## Online Tables
+https://baserow.io/  
+https://www.cloudternal.com/cloudternal  
+
+
 ## RPA
 WinAutomation     
 UIPath (mmeting 003)     
 Automation hero     
 Workfussion     
    
-
-
 ## No-Code education  
 https://www.makerpad.co­  
 https://www.nocodehub.com/  
@@ -48,5 +53,8 @@ https://reactstudio.com/
 https://divjoy.com/   
 https://github.com/ericclemmons/codelift   
 
+
+## Not placed yet
+https://www.stitchiq.com/
 
 Meeting numbers is a reference to the meeting when it was presented at the No-Code Copenhagen usergroup.
