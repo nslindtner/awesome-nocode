@@ -25,8 +25,10 @@ https://www.glideapps.com/
 https://www.appsheet.com/    
 https://coda.io/­   
 https://kodika.io/­   
-https://www.adalo.com/ 
-https://www.outsystems.com/  
+https://www.adalo.com/   
+https://www.outsystems.com/    
+https://bubble.io/   
+
 
 
 ## Online Tables
@@ -41,8 +43,8 @@ Automation hero
 Workfussion     
    
 ## No-Code education  
-https://www.makerpad.co­  
-https://www.nocodehub.com/  
+https://www.makerpad.co­    
+https://www.nocodehub.com/    
 
 ## Workspace
 https://www.notion.so/product­ 
