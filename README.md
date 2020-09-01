@@ -34,6 +34,7 @@ https://bubble.io/
 ## Online Tables
 https://baserow.io/  
 https://www.cloudternal.com/cloudternal  
+https://www.stitchiq.com/   
 
 
 ## RPA
@@ -57,6 +58,6 @@ https://github.com/ericclemmons/codelift
 
 
 ## Not placed yet
-https://www.stitchiq.com/
+none   
 
 Meeting numbers is a reference to the meeting when it was presented at the No-Code Copenhagen usergroup.
