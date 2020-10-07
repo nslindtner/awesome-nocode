@@ -19,7 +19,9 @@ https://backendless.com/
 
 ## Websites
 https://webflow.com/  
-https://carrd.co/   
+https://carrd.co/   '
+https://www.squarespace.com/   
+
 
 ## Mobile app builders
 https://www.glideapps.com/  
