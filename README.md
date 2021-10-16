@@ -62,6 +62,6 @@ https://github.com/ericclemmons/codelift
 
 
 ## Not placed yet
-none   
+https://linkz.ai  
 
 Meeting numbers is a reference to the meeting when it was presented at the No-Code Copenhagen usergroup.
