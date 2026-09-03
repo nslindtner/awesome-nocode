@@ -25,6 +25,7 @@ https://webflow.com/
 https://cactal.ai/  
 https://carrd.co/   '
 https://www.squarespace.com/   
+https://naratake.com/en  
 
 
 ## Mobile app builders
