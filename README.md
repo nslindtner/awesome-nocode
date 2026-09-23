@@ -26,6 +26,7 @@ https://cactal.ai/
 https://carrd.co/   '
 https://www.squarespace.com/   
 https://naratake.com/en  
+https://figment.so/
 
 
 ## Mobile app builders
