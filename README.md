@@ -19,6 +19,7 @@ https://backendless.com/
 https://www.ondiagram.com (supports MongoDB)
 https://cronit.app
 https://linx.software
+[Taskade](https://github.com/taskade/taskade) 
 
 ## Websites
 https://webflow.com/  
