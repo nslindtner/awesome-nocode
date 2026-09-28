@@ -16,9 +16,9 @@ https://powerapps.microsoft.com/en-us/
 https://docs.busywork.co/   
 https://www.honeycode.aws/   
 https://backendless.com/
-https://www.ondiagram.com (supports MongoDB)
-https://cronit.app
-https://linx.software
+https://www.ondiagram.com/ (supports MongoDB)
+https://cronit.app/
+https://linx.software/
 [Taskade](https://github.com/taskade/taskade) 
 
 ## Websites
