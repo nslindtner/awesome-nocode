@@ -1,13 +1,16 @@
 # awesome-nocode
 List of NoCodes tool. 
 
+
 ## intergations machines
 https://zapier.com/  
 https://www.integromat.com/en/  
 https://ifttt.com/  
 
+
 ## Intergrations big players
 https://flow.microsoft.com/en-us/  
+
 
 ## System Buildes
 https://airtable.com/  (meeting 001)
@@ -21,6 +24,7 @@ https://cronit.app/
 https://linx.software/
 [Taskade](https://github.com/taskade/taskade) 
 
+
 ## Websites
 https://webflow.com/  
 https://cactal.ai/  
@@ -28,7 +32,10 @@ https://carrd.co/   '
 https://www.squarespace.com/   
 https://naratake.com/en  
 https://helmpages.com/  
+https://icybiz.com/  
 https://figment.so/
+
+
 
 
 ## Mobile app builders
@@ -42,10 +49,15 @@ https://bubble.io/
 
 
 
+
+
+
 ## Online Tables
 https://baserow.io/  
 https://www.cloudternal.com/cloudternal  
 https://www.stitchiq.com/   
+
+
 
 
 ## RPA
@@ -58,9 +70,11 @@ Workfussion
 https://www.makerpad.co­    
 https://www.nocodehub.com/    
 
+
 ## Workspace
 https://www.notion.so/product­ 
 https://podio.com/   
+
 
 ## Visual builders on top of React  
 https://reactstudio.com/   
@@ -68,7 +82,11 @@ https://divjoy.com/
 https://github.com/ericclemmons/codelift   
 
 
+
+
 ## Not placed yet
 none   
 
+
 Meeting numbers is a reference to the meeting when it was presented at the No-Code Copenhagen usergroup.
+
