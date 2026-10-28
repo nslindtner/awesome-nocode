@@ -29,7 +29,8 @@ https://www.squarespace.com/
 https://naratake.com/en  
 https://helmpages.com/  
 https://icybiz.com/  
-https://figment.so/
+https://figment.so/  
+https://kleap.co/
 
 
 ## Mobile app builders
