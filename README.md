@@ -40,6 +40,7 @@ https://kodika.io/­
 https://www.adalo.com/   
 https://www.outsystems.com/    
 https://bubble.io/   
+https://newly.app/  
 
 
 
