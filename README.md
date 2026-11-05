@@ -30,6 +30,7 @@ https://naratake.com/en
 https://helmpages.com/  
 https://icybiz.com/  
 https://figment.so/  
+https://blasa.shop/  
 https://kleap.co/
 
 
