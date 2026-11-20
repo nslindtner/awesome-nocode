@@ -35,6 +35,7 @@ https://figment.so/
 https://blasa.shop/  
 https://kleap.co/  
 https://www.freshstore.com/  
+https://ginta.app/  
 
 
 ## Mobile app builders
