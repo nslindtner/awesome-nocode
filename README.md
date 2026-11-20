@@ -33,7 +33,8 @@ https://helmpages.com/
 https://icybiz.com/  
 https://figment.so/  
 https://blasa.shop/  
-https://kleap.co/
+https://kleap.co/  
+https://www.freshstore.com/  
 
 
 ## Mobile app builders
